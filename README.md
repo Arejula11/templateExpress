@@ -28,3 +28,10 @@ npm start
 ```
 6. Visit http://localhost:3000
 ![Server running](/pic/localhost.png)
+
+## Packages recommended
+
+- **[ajv](https://www.npmjs.com/package/ajv):** The fastest JSON schema Validator.
+- **[bcrypt](https://www.npmjs.com/package/bcrypt):** A library to help you hash passwords.
+- **[swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express):** Add swagger UI to your express project.
+- **[swagger-jsdoc](https://www.npmjs.com/package/swagger-jsdoc):** Generate swagger doc based on JSDoc.
